@@ -4,7 +4,7 @@
 The KAGE quest project uses shark attack data found at [sharkattack] (https://www.sharkattackfile.net/incidentlog.htm).
 As a group we performed data wrangling, data cleaning, and data viualizations to answer a business question. 
 
-## About the dataset  	:shell:
+## About the dataset :shell:
 The shark data set consisted of global shark attacks. Shark attacks in this data set dated back to 1555 where the only information provided was that it was a male named Olaus Magnus. The data set contains both categorical and numerical variables. Variable that were utilized for out aalysis were location and state.
 
 ### Business Question :shark:
