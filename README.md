@@ -1,6 +1,6 @@
 # KAGE-Quest  	
 
-## Introduction
+## Introduction :ocean:
 The KAGE quest project uses shark attack data found at [sharkattack] (https://www.sharkattackfile.net/incidentlog.htm).
 As a group we performed data wrangling, data cleaning, and data viualizations to answer a business question. 
 
